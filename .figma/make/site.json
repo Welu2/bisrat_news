@@ -1,0 +1,10 @@
+{
+  "description": "Stay informed with Bisrat News, a modern Ethiopian news aggregator that delivers trending stories, interactive quizzes, and real-time leaderboards for an engaging experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
